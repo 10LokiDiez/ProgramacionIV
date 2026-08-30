@@ -11,12 +11,12 @@ op = int(input("Que figura quieres hacer: "))
 
 match op:
     case 1:
-        for x in range(0, lon):
-            for y in range( 0, lon):
+        for x in range(lon):
+            for y in range(lon):
                 print(f"{symbol} ", end="")
             print("")
     case 2:
-        for x in range(0, lon):
+        for x in range(lon):
             for y in range(0, x + 1):
                 print(f"{symbol} ", end="")
             print("")
