@@ -1,4 +1,4 @@
-#Tuple = () Ordenado, sin cambios, si duplicados
+#Tuple = () Ordenado, sin cambios, si duplicados, (nada de cambios)
 #PARECIDA A LA LISTA, PERO SIRVE MAS POR LO RAPIDO
 fruits = ("apple","orange","pineapple","coconut", "coconut")
 
