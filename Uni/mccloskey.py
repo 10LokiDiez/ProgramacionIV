@@ -1,0 +1,1 @@
+min = int(input("ESCRIBA LOS MIN TERMINOS DE LA FUNCION"))
