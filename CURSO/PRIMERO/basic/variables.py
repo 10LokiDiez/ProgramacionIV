@@ -28,3 +28,5 @@ my_color = "orange"
 first_note = 5
 nominal_percentage = 0.286
 is_beautiful = True
+
+a,b,c,d = 1,2,3,4
